@@ -1,0 +1,16 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion sdkVersion
+    buildToolsVersion toolsVersion
+
+    defaultConfig {
+        minSdkVersion 7
+        targetSdkVersion 20
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:20.0.+'
+    compile project(':PanningViewLibrary')
+}

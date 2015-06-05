@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terrain">Terrain</string>
+    <string name="current_location">Current Location</string>
+    <string name="none">None</string>
+    <string name="activity_login">Sign in</string>
+    <string name="app_name">Bus Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="bus_tracker">Bus Tracker</string>
+    <string name="map_fragment">Map</string>
+    <string name="location_">Location:</string>
+    <string name="settings">Settings</string>
+    <string name="go">Go</string>
+
+    <string name="logout">Logout</string>
+
+</resources>
