@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gc.materialdesign.views.Card xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="7dp">
+
+    <com.gc.materialdesign.views.LayoutRipple
+        android:id="@+id/lp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/item_bus_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="left"
+                    android:padding="5dp"
+                    android:text="Bus Name"
+                    android:textColor="#000"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/item_bus_no"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toEndOf="@+id/item_bus_name"
+                    android:layout_toRightOf="@+id/item_bus_name"
+                    android:gravity="left"
+                    android:padding="5dp"
+                    android:text="13453"
+                    android:textColor="#555"
+                    android:textSize="18sp" />
+
+
+                <TextView
+                    android:id="@+id/src"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/item_bus_no"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginStart="42dp"
+                    android:layout_toEndOf="@+id/item_bus_no"
+                    android:layout_toRightOf="@+id/item_bus_no"
+                    android:padding="5dp"
+                    android:text="src"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/srcTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/src"
+                    android:padding="5dp"
+                    android:text="10:15"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/seatsTV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/item_bus_name"
+                    android:layout_below="@+id/item_bus_name"
+                    android:padding="5dp"
+                    android:text="Seats : "
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/seats"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/seatsTV"
+                    android:layout_toRightOf="@+id/seatsTV"
+                    android:padding="5dp"
+                    android:text="25 / 50"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/dest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/seats"
+                    android:layout_alignBottom="@+id/seats"
+                    android:layout_toEndOf="@+id/seats"
+                    android:padding="5dp"
+                    android:text="dest"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/desTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/dest"
+                    android:layout_toRightOf="@+id/dest"
+                    android:padding="5dp"
+                    android:text="10:35"
+                    android:textSize="20sp" />
+        </RelativeLayout>
+    </com.gc.materialdesign.views.LayoutRipple>
+</com.gc.materialdesign.views.Card>
+
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6780acbff0a2a1bde1a6a60a2a9181c242ada5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-8b26267b3d20911ba6448de83ca07a711bb550a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-bdb17ad42d3033df76d14712c7929f04718b4048.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-8b26267b3d20911ba6448de83ca07a711bb550a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-7e99ac4611672fdcd949572965c198de4b0fee90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-21e8e7c37c44d562c77c11668311573b930ac4b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-c8ed71e389719319cbcb949a701fb2ab6253006e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-7e99ac4611672fdcd949572965c198de4b0fee90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-c8ed71e389719319cbcb949a701fb2ab6253006e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-21e8e7c37c44d562c77c11668311573b930ac4b8.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6780acbff0a2a1bde1a6a60a2a9181c242ada5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Shobhit Agarwal\Downloads\Compressed\subsurface-companion-master\BusTracker\app\build\intermediates\pre-dexed\debug\classes-bdb17ad42d3033df76d14712c7929f04718b4048.jar" />
+    </item>
+
+</items>
